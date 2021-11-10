@@ -1,0 +1,4 @@
+[mega]
+type = mega
+user = tnow0546@devlo.site
+pass = S2JsHnxdBjiM6gfNtvzOBt3zz7GbDicR_Q
